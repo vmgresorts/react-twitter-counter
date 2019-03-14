@@ -1,0 +1,1 @@
+Twitter styled character counter
